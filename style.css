@@ -1,0 +1,45 @@
+body {
+    font-family: "Noto Sans", sans-serif;
+    background-color: rgb(1, 88, 114);
+
+
+}
+
+
+.container {
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(4, 74, 96);
+    box-shadow: 2px 20px 25px rgb(40, 44, 44);
+
+}
+
+h1,
+p,
+h2 {
+    color: whitesmoke;
+}
+
+input[type='text'] {
+    padding: 10px;
+    font-size: 20px;
+    width: 70%;
+}
+
+button {
+    padding: 10px 10px 10px 10px;
+    font-size: 14px;
+    background-color: rgb(0, 155, 200);
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    margin-top: 15px;
+    color: whitesmoke;
+}
+
+#responseData {
+    margin-top: 20px;
+    font-size: 18px;
+}
